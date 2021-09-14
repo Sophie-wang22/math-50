@@ -1,2 +1,2 @@
 # Math 50
-21F, Ethan Levien
+Ethan Levien 21F
